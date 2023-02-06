@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">JetpackConposeCourseProfileDog</string>
     <string name="title_activity_rows_columns_main">RowsColumnsMainActivity</string>
+    <string name="title_activity_basics_codelab">BasicsCodelab</string>
 </resources>
